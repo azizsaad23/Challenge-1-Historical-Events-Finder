@@ -1,0 +1,9 @@
+{
+    "posts": [
+      { "id": 1, "title": "server", "author": "aziz saad" }
+    ],
+    "comments": [
+      { "id": 1, "body": "mini app", "postId": 1 }
+    ],
+    "profile": { "name": "event finder" }
+  }
